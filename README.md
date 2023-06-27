@@ -5,4 +5,7 @@ Tutorial to share how to get started in Git and Github
 
 1. Using command line
 2. Using Google Colab
-3. Using app 
+3. Using Github Desktop
+4. Using RStudio
+
+
